@@ -11,8 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=mramansayyad&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
-
 ## 🌟 About Me
 - 🔭 I’m currently working on **AI-powered tools like PromptCraft & smart web apps**
 - 👯 I’m looking to collaborate on **AI projects, SaaS products & hackathons**
@@ -21,8 +19,6 @@
 - 💬 Ask me about **AI tools, prompt engineering, startups & web dev**
 - ⚡ Fun fact: **Building AI products while targeting FAANG 🚀**
 
----
-
 ## 🏆 Achievements
 - 🥇 **Google Gen AI Academy 2025 - Rank 1**
 - 🧠 Creator of **PromptCraft** (AI Prompt Generation Tool)
@@ -30,7 +26,11 @@
 - 💡 Active in hackathons & developer communities
 - 📈 Growing AI personal brand on LinkedIn & Instagram
 
----
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mramansayyad&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -44,14 +44,11 @@
   <img src="https://img.shields.io/badge/ML-Learning-yellow?style=for-the-badge" />
 </p>
 
----
-
 ## 🚀 Projects
 - 🔥 **PromptCraft** – AI prompt generation tool  
 - 🍳 **Smart Recipe Suggester** – Ingredient-based recipes  
 - 🌾 **AgroPulse** – AI-powered agriculture insights  
 
----
 
 ## 📊 GitHub Stats
 
@@ -60,23 +57,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mramansayyad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mramansayyad&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mramansayyad/mramansayyad/output/github-contribution-grid-snake.svg" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -91,7 +83,7 @@
   📧 <b>mr.sayyadaman@gmail.com</b>
 </p>
 
----
+
 
 ## 💡 Quote
 
