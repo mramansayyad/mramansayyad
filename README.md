@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer+%7C+Founder+%7C+Builder;Creating+AI+Products+%F0%9F%9A%80;Future+FAANG+Engineer+%F0%9F%94%A5;Prompt+Engineering+Expert" />
 </p>
 
-![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQEpytzJH4O9Yg/profile-displaybackgroundimage-shrink_350_1400/B4DZg9RgpyHwAo-/0/1753374658878?e=1777507200&v=beta&t=OHiZdeDiCOuVIVtzpWqQP1mB-UJmJ5iJaslrZ3A3mEY)
+![LinkedIn Banner](https://media.licdn.com/dms/image/v2/D4D16AQEpytzJH4O9Yg/profile-displaybackgroundimage-shrink_350_1400/B4DZg9RgpyHwAo-/0/1753374658878?e=1781740800&v=beta&t=eFz2dkc2agkfFrOYn3f_6sV8YSWDSgVhtzOnLXpzqAc)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mramansayyad&label=Profile%20Views&color=0e75b6&style=flat" />
